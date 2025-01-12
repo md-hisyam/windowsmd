@@ -1,5 +1,5 @@
-# Windows Fundamental Knowledge 
-## Windows Operating System Basics
+<div class="center-text"> # Windows Fundamental Knowledge </div>
+### Windows Operating System Basics
 - Windows File System (NTFS):<br>
 Learn how to navigate the NTFS file system, understand directories, file permissions, and how files are organized on a Windows machine.
 - Command Line and PowerShell:<br>
